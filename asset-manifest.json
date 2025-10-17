@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.72da2cb5.css",
-    "main.js": "/static/js/main.17044ea1.js",
-    "static/js/453.82987c51.chunk.js": "/static/js/453.82987c51.chunk.js",
-    "index.html": "/index.html",
-    "main.72da2cb5.css.map": "/static/css/main.72da2cb5.css.map",
-    "main.17044ea1.js.map": "/static/js/main.17044ea1.js.map",
-    "453.82987c51.chunk.js.map": "/static/js/453.82987c51.chunk.js.map"
+    "main.css": "/vehicle-logbook/static/css/main.72da2cb5.css",
+    "main.js": "/vehicle-logbook/static/js/main.f153990c.js",
+    "static/js/453.82987c51.chunk.js": "/vehicle-logbook/static/js/453.82987c51.chunk.js",
+    "index.html": "/vehicle-logbook/index.html",
+    "main.72da2cb5.css.map": "/vehicle-logbook/static/css/main.72da2cb5.css.map",
+    "main.f153990c.js.map": "/vehicle-logbook/static/js/main.f153990c.js.map",
+    "453.82987c51.chunk.js.map": "/vehicle-logbook/static/js/453.82987c51.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.72da2cb5.css",
-    "static/js/main.17044ea1.js"
+    "static/js/main.f153990c.js"
   ]
 }
