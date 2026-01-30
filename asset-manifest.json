@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vehicle-logbook/static/css/main.72da2cb5.css",
-    "main.js": "/vehicle-logbook/static/js/main.021eaff8.js",
+    "main.js": "/vehicle-logbook/static/js/main.0fde51a0.js",
     "static/js/453.82987c51.chunk.js": "/vehicle-logbook/static/js/453.82987c51.chunk.js",
     "index.html": "/vehicle-logbook/index.html",
     "main.72da2cb5.css.map": "/vehicle-logbook/static/css/main.72da2cb5.css.map",
-    "main.021eaff8.js.map": "/vehicle-logbook/static/js/main.021eaff8.js.map",
+    "main.0fde51a0.js.map": "/vehicle-logbook/static/js/main.0fde51a0.js.map",
     "453.82987c51.chunk.js.map": "/vehicle-logbook/static/js/453.82987c51.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.72da2cb5.css",
-    "static/js/main.021eaff8.js"
+    "static/js/main.0fde51a0.js"
   ]
 }
